@@ -1,0 +1,24 @@
+svg
+{
+    background : cover;
+}
+
+.divmap{
+    width : 50%;
+    margin : auto;
+}
+
+.divmap path{
+    fill: brown;
+    stroke : gold;
+    stroke-width: 1px;
+    transition : fill 0.3s;
+}
+
+.divmap :hover{
+    fill : coral;
+}
+
+body{
+    background-image : url("beige-tiles.png");
+}
