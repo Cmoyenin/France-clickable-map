@@ -1,0 +1,1 @@
+# France clickable map
